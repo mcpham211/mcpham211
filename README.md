@@ -5,11 +5,15 @@
 </p>
 
 
-- ✍ I'm a student at [SOICT-HUST](https://soict.hust.edu.vn/).
+- ✍ I'm a student at [The School of Information and Communications Technology - Hanoi University of Science and Technology](https://soict.hust.edu.vn/).
+- 📫 How to reach me [phammanhcuongada@gmail.com](phammanhcuongada@gmail.com/).
+- 🌱 I’m currently learning AI, Big Data, Computer Vision.
+  
 
 <br />
 
-## 📫 How to reach me:
+## Connect with me: 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/manh-cuong-pham-b08080241/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -26,7 +30,7 @@
 </p>
 
 
-## 📫 Activities:
+## Activities:
 
 <table style="width:100%;">
   <tr>
