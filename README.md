@@ -25,6 +25,10 @@
   </a> 
   <a href="https://www.youtube.com/channel/UC74zLTJP7oKR-z1rz33A2Zg" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+  <a href="https://www.instagram.com/mcpham_211/" alt="Instagram" target="_blank">
+    <img src="https://icons8.com/icon/32292/instagram"/>
+  </a>
 </p>
 
 
