@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student at [HUST](https://hust.edu.vn/en/).
+- ✍ I'm a student at [SOICT-HUST](https://soict.hust.edu.vn/).
 
 <br />
 
@@ -38,7 +38,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://openseauserdata.com/files/7d5d665f92c09858439458678bc879a4.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
