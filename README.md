@@ -27,6 +27,8 @@
   <a href="https://www.youtube.com/channel/UC74zLTJP7oKR-z1rz33A2Zg" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
+  <a href="https://stackoverflow.com/users/18199685/mc-pham?tab=profile" alt="Stackoverflow" target="_blank" >
+    <img src="https://img.icons8.com/color/48/stackoverflow.png"/>
 </p>
 
 
