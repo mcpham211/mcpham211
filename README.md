@@ -7,7 +7,7 @@
 
 - ✍ I'm a student at [The School of Information and Communications Technology - Hanoi University of Science and Technology](https://soict.hust.edu.vn/).
 - 📫 How to reach me [phammanhcuongada@gmail.com](phammanhcuongada@gmail.com/).
-- 🌱 I’m currently learning AI, Big Data, Computer Vision.
+- 🌱 I’m currently learning AI, Computer Vision.
   
 
 <br />
